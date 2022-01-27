@@ -1,2 +1,2 @@
 # protdc
-Protein functional degree based on cross species gene repertoires comparison
+Protein function "degree centrality" based on cross species whole gene repertoires comparison
